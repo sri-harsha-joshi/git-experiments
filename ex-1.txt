@@ -1,2 +1,3 @@
 this is first line in ex-1.
 second line.
+commit from master
