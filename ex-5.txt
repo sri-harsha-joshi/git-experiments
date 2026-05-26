@@ -1,1 +1,2 @@
 this is first line in ex-5.
+its second line commit from branch-2.
