@@ -1,2 +1,3 @@
 this is first line in ex-3.
 second line of ex-3.
+commit from branch-2.
