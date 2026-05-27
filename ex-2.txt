@@ -2,3 +2,4 @@ this is first line in ex-2.
 second line of ex-2.
 commit from master on ex-2.
 commit b1-c1
+commit b1-c2
