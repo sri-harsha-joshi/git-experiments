@@ -2,3 +2,4 @@ this is first line in ex-4.
 made from master
 commit from master
 commit m-c2
+commit m-c3
